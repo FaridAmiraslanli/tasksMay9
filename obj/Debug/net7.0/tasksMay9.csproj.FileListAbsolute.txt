@@ -1,0 +1,15 @@
+/home/farid/Desktop/tasks/tasksMay9/bin/Debug/net7.0/tasksMay9
+/home/farid/Desktop/tasks/tasksMay9/bin/Debug/net7.0/tasksMay9.deps.json
+/home/farid/Desktop/tasks/tasksMay9/bin/Debug/net7.0/tasksMay9.runtimeconfig.json
+/home/farid/Desktop/tasks/tasksMay9/bin/Debug/net7.0/tasksMay9.dll
+/home/farid/Desktop/tasks/tasksMay9/bin/Debug/net7.0/tasksMay9.pdb
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.csproj.AssemblyReference.cache
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.GeneratedMSBuildEditorConfig.editorconfig
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.AssemblyInfoInputs.cache
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.AssemblyInfo.cs
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.csproj.CoreCompileInputs.cache
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.dll
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/refint/tasksMay9.dll
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.pdb
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/tasksMay9.genruntimeconfig.cache
+/home/farid/Desktop/tasks/tasksMay9/obj/Debug/net7.0/ref/tasksMay9.dll
